@@ -10,18 +10,6 @@ Olá! 👋 Seja bem-vindo à organização da FerveZap no GitHub. Somos uma equi
 
 - **Comunidade Ativa:** Valorizamos a colaboração da comunidade e incentivamos contribuições de desenvolvedores e usuários para melhorar nossos projetos.
 
-### Nossos Projetos
-
-Na nossa organização GitHub, você encontrará uma variedade de projetos relacionados ao WhatsApp, incluindo:
-
-- **FerveZap Core:** O núcleo do FerveZap, contendo as funcionalidades essenciais para automação e gestão de contas do WhatsApp.
-
-- **FerveZap API:** Uma API poderosa para integração com serviços externos e desenvolvimento de extensões.
-
-- **FerveZap Web:** Uma interface web para gerenciamento e monitoramento de contas do WhatsApp.
-
-- **FerveZap Docs:** Documentação completa e atualizada de todos os nossos projetos, incluindo guias de instalação, API e uso.
-
 ### Como Contribuir
 
 Gostaria de contribuir para nossos projetos? É simples! Basta explorar nossos repositórios, abrir issues, enviar pull requests ou entrar em contato conosco para discutir ideias e sugestões.
